@@ -60,7 +60,7 @@ msgpack==0.5.6
 nbformat==4.4.0
 npyscreen==4.10.5
 nulltype==2.3.1
-numpy==1.15.4
+numpy==1.22.0
 options==1.4.8
 packaging==18.0
 pacman-mirrors==4.14.0
